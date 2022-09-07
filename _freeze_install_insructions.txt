@@ -1,0 +1,12 @@
+"Freezing" the GuiQwtPlot_temperature.py program
+
+The dist folder contains an executable "temperature_view.exe"
+
+The dist folder should be self contatined and can be zipped up and copied to another location or machine.
+It should work with out a python distribution.
+
+The dist folder and executable was produced with the command
+
+>python cxfreeze_script.py
+
+EFH 09/09/2015
